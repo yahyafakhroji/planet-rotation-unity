@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AeroplanePropellerAnimator.cs">
+    <Files>
+      <File FileName="Assets/AeroplaneUserControl2Axis.cs" Line="15" Column="36" />
+      <File FileName="Assets/AeroplaneAiControl.cs" Line="22" Column="1" />
+      <File FileName="Assets/AeroplanePropellerAnimator.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
