@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{031D4857-8382-B846-DA08-8FE73D2155CE}") = "Unity VR - Planet Rotation", "Assembly-CSharp-firstpass.csproj", "{A336AF98-484C-CC14-F79B-2284289BFCFA}"
+EndProject
+Project("{031D4857-8382-B846-DA08-8FE73D2155CE}") = "Unity VR - Planet Rotation", "Assembly-CSharp.csproj", "{EFFF2404-BFD1-E83A-D6AF-EEEB185E7CAC}"
+EndProject
+Project("{031D4857-8382-B846-DA08-8FE73D2155CE}") = "Unity VR - Planet Rotation", "Assembly-CSharp-Editor.csproj", "{3B3D6B67-0A77-4D79-EC9A-FF23D163B67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A336AF98-484C-CC14-F79B-2284289BFCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A336AF98-484C-CC14-F79B-2284289BFCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A336AF98-484C-CC14-F79B-2284289BFCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A336AF98-484C-CC14-F79B-2284289BFCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFF2404-BFD1-E83A-D6AF-EEEB185E7CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFF2404-BFD1-E83A-D6AF-EEEB185E7CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFF2404-BFD1-E83A-D6AF-EEEB185E7CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFF2404-BFD1-E83A-D6AF-EEEB185E7CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3D6B67-0A77-4D79-EC9A-FF23D163B67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3D6B67-0A77-4D79-EC9A-FF23D163B67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3D6B67-0A77-4D79-EC9A-FF23D163B67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3D6B67-0A77-4D79-EC9A-FF23D163B67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
